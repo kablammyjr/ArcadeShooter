@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ArcadeShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooter.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterCharacter.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterGameMode.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterHUD.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterProjectile.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooter.init.gen.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterCharacter.gen.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterGameMode.gen.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterHUD.gen.cpp.obj"
+"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\ArcadeShooterProjectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ArcadeShooter\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\UE4 Projects\ArcadeShooter\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ArcadeShooter.lib"

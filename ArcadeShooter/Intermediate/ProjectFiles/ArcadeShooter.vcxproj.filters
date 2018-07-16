@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ArcadeShooter.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{BB3316F3-09E1-4144-9FEF-B948803C7756}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ArcadeShooter.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ArcadeShooterEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{5A82D1B3-5A37-42C9-ABE7-00B684BA171A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ArcadeShooter">
+			<UniqueIdentifier>{BF8A0D1E-9502-4770-8A10-B20EDA438686}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ArcadeShooter\ArcadeShooter.Build.cs">
+			<Filter>Source\ArcadeShooter</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ArcadeShooter\ArcadeShooter.cpp">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ArcadeShooter\ArcadeShooter.h">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ArcadeShooter\ArcadeShooterCharacter.cpp">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ArcadeShooter\ArcadeShooterCharacter.h">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ArcadeShooter\ArcadeShooterGameMode.cpp">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ArcadeShooter\ArcadeShooterGameMode.h">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ArcadeShooter\ArcadeShooterHUD.cpp">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ArcadeShooter\ArcadeShooterHUD.h">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ArcadeShooter\ArcadeShooterProjectile.cpp">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ArcadeShooter\ArcadeShooterProjectile.h">
+			<Filter>Source\ArcadeShooter</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
